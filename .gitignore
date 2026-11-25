@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# User data (generated at runtime)
+dados/
+capas/
+imagens/
+logs/
+
+# Rust build artifacts
+raylib/build/
+rust/procscan
+rust/coverscan
+
+# Misc
+.freebuff/
